@@ -1,4 +1,4 @@
-# currency-converter-in-java
+# currency_converter
 
 
 Currency converter (or currency exchange) is a mini project coded in Java programming language. This simple application provides a web-based interface for exchanging/converting money from one currency (say $) to another currency (say €).
@@ -13,11 +13,3 @@ Currency converter mini project is built keeping this thing in mind. It is simpl
 Such application can be used by any user, but it is mainly useful for business, shares, and finance related areas where money transfer and currency exchange takes place on a daily basis.
 
 In this currency converter app, users are provided with an option to select the type of conversion, i.e. from “this” currency to “that” currency. This simple feature allows users to enter amount to be converted (say currency in Dollars), and display the converted amount (say currency in Euro).
-
-
-
-visit more projects - https://projectworlds.in
-
-demo- https://www.projectworlds.in/java-projects-with-source-code/currency-converter-java-mini-project/
-
-
